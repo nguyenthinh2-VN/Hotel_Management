@@ -1,0 +1,2 @@
+ALTER TABLE employees
+ADD COLUMN address VARCHAR(255) NULL;
